@@ -71,7 +71,7 @@ Source Database (OLTP)
 ### 🧭 Overview & KPIs
 ![Dashboard Overview](assets/01_dashboard.png)
 
-### 📈 Monthly Revenue Trend
+### 🧾 Insights & Data Exploration
 ![Revenue Trend](assets/02_dashboard.png)
 
 ### 🧾 Insights & Data Exploration
