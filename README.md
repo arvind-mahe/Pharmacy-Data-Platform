@@ -68,17 +68,17 @@ Source Database (OLTP)
 
 ## 📊 Dashboard Preview
 
-### 🧭 Overview & KPIs
+### 🏠 Dashboard Overview (KPIs + Revenue Trend)
 ![Dashboard Overview](assets/01_dashboard.png)
 
-### 📈 Monthly Revenue Trend
-![Revenue Trend](assets/02_dashboard.png)
+### 📈 Top Products, Customers & Seller Revenue
+![Top Products Customers Seller](assets/02_dashboard.png)
 
-### 🧾 Insights & Data Exploration
-![Insights Table](assets/03_dashboard.png)
+### ⚠️ Expired Products & Warehouse Data Preview
+![Expired Products & Fact Table](assets/03_dashboard.png)
 
-### 🎯 Product & Customer Analytics
-![Product & Customer Analytics](assets/04_dashboard.png)
+### 📊 Product Revenue Analysis (Filtered View)
+![Filtered Product Revenue](assets/04_dashboard.png)
 
 ---
 
