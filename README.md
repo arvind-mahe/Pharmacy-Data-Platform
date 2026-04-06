@@ -66,13 +66,19 @@ Source Database (OLTP)
 
 ---
 
-## 📸 Dashboard Preview
+## 📊 Dashboard Preview
 
-![Dashboard Overview](assets/dashboard_overview.png)
+### 🧭 Overview & KPIs
+![Dashboard Overview](assets/01_dashboard.png)
 
-![Revenue Chart](assets/revenue_chart.png)
+### 📈 Monthly Revenue Trend
+![Revenue Trend](assets/02_dashboard.png)
 
-![Top Products](assets/top_products.png)
+### 🧾 Insights & Data Exploration
+![Insights Table](assets/03_dashboard.png)
+
+### 🎯 Product & Customer Analytics
+![Product & Customer Analytics](assets/04_dashboard.png)
 
 ---
 
